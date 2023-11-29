@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 90c26dfde11bf4ff69ef936c6e6b1ed1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/Legacy/glTF-pbrMetallicRoughness-Opaque.shadergraph
+  uploadId: 593066

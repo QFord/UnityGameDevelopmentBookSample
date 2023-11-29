@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 423b8abb5d777440188ec5191c4812dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Scripts/Export/HighDefinitionMaterialExport.cs
+  uploadId: 593066

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c57fa3e768cc40d2abb3b1b4ccd18d4
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/SubGraphs/SpecularGlossiness.shadersubgraph
+  uploadId: 593066

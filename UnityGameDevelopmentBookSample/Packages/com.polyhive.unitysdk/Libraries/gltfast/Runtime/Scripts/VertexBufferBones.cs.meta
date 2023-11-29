@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ecc0609ec6ff546e587a11c857a0e818
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Scripts/VertexBufferBones.cs
+  uploadId: 593066

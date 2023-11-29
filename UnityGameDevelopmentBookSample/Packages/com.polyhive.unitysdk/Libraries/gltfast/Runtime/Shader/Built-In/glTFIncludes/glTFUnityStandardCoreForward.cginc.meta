@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 919a7c90a60cf42689edaf61f0243ea9
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/Built-In/glTFIncludes/glTFUnityStandardCoreForward.cginc
+  uploadId: 593066

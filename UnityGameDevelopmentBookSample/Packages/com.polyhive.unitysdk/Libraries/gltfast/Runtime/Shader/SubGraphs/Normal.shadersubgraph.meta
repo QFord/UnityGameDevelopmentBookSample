@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d23f3f9d39dc4621898db0a20884fcd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/SubGraphs/Normal.shadersubgraph
+  uploadId: 593066

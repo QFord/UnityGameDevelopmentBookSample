@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4eb7e251dc88045e9b33e3f643084108
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/Export/glTFExportMaskMap.shader
+  uploadId: 593066

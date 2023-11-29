@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b9d29dfa1474148e792ac720cbd45122
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/glTF-pbrMetallicRoughness.shadergraph
+  uploadId: 593066

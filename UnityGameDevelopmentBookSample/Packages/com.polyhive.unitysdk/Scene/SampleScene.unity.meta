@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c3449e59c4f3e440a43ff40689b017b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Scene/SampleScene.unity
+  uploadId: 593066

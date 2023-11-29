@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8128dba25d89b4e0e99b91d27f058f07
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/SubGraphs/BaseColor.shadersubgraph
+  uploadId: 593066

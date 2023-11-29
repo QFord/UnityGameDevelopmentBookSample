@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 025e8a05d2e5841afa3cab01a58d2379
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Prefabs/glTF-StableFramerate.prefab
+  uploadId: 593066

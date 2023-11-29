@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0011ac3bd216c4242baafcf7d0ee237b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/SubGraphs/PBR_metallic_roughness.shadersubgraph
+  uploadId: 593066

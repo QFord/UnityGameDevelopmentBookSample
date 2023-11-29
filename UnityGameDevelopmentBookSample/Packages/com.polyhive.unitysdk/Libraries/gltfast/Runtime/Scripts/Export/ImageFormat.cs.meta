@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 0a5ac974a55f47eebe55e9bee27a60e6
+timeCreated: 1670551881
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Scripts/Export/ImageFormat.cs
+  uploadId: 593066

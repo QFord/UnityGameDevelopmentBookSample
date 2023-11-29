@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 3dd628d4dd9c42338924872f4e477b6e
+timeCreated: 1670560527
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Scripts/SceneObjectCreation.cs
+  uploadId: 593066

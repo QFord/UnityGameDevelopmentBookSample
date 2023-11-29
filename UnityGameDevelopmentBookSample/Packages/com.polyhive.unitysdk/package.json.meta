@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdb7b84f2a4c4844d9b74582a113b999
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/package.json
+  uploadId: 593066

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed786e03151c44364bc646894a518c1b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Prefabs/glTF-FastestLoading.prefab
+  uploadId: 593066

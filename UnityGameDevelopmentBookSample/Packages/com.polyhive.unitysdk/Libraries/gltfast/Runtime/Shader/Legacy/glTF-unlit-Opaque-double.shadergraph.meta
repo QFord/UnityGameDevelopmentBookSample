@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f94bbd13412a4419bbfac24d9a53b058
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/Legacy/glTF-unlit-Opaque-double.shadergraph
+  uploadId: 593066

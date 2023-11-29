@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.polyhive.unitysdk": {
+      "version": "file:com.polyhive.unitysdk",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.mathematics": "1.2.6",
+        "com.unity.burst": "1.8.4"
+      }
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,

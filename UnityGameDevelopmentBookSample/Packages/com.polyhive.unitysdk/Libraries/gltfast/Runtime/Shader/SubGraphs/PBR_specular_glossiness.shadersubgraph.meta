@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a604ef8f6e4b643cf9807d62c5c98463
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Shader/SubGraphs/PBR_specular_glossiness.shadersubgraph
+  uploadId: 593066

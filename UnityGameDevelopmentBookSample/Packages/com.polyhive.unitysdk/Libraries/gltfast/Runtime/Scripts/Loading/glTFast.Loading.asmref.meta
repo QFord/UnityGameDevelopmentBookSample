@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c59dc20df2b5b4252b971468cf766cec
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/Runtime/Scripts/Loading/glTFast.Loading.asmref
+  uploadId: 593066

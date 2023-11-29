@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6f1c11b2fcea4ea69d44fea7045741c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/LICENSE.md
+  uploadId: 593066

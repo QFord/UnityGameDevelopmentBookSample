@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 315b3ac82fac241e09252eb593f4ddb7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257919
+  packageName: 'Polyhive: Texture 3D Assets with AI'
+  packageVersion: 1.0.0
+  assetPath: Packages/com.polyhive.unitysdk/Libraries/gltfast/CODE_OF_CONDUCT.md
+  uploadId: 593066
